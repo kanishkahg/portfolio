@@ -6,12 +6,12 @@
 	.st0{fill:none;}
 	.st1{fill:#FFFFFF;}
 	.st2{font-family:'Gilroy-Bold';}
-	.st3{font-size:22px;}
+	.st3{font-size:20px;}
 	.st4{letter-spacing:-1;}
 	.st5{fill:#CC3333;}
 </style>
 <rect y="6.9" class="st0" width="84.1" height="15.9"/>
-<text transform="matrix(1 0 0 1 5.6361 22.3308)"><tspan x="0" y="0" class="st1 st2 st3 st4">Kanish</tspan><tspan x="61.8" y="0" class="st1 st2 st3 st4">-</tspan></text>
+<text transform="matrix(1 0 0 1 2.9881 20.9309)" class="st1 st2 st3 st4">Kanishka</text>
 <path class="st5" d="M88.6,21.7c-0.4,0.4-1,0.7-1.6,0.7c-0.6,0-1.2-0.2-1.6-0.7c-0.4-0.4-0.7-1-0.7-1.6s0.2-1.1,0.6-1.6
 	c0.4-0.4,1-0.7,1.6-0.7c0.6,0,1.2,0.2,1.6,0.7c0.4,0.4,0.7,1,0.7,1.6S89.1,21.3,88.6,21.7z"/>
 </svg>
